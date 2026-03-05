@@ -1,7 +1,7 @@
 # oil_gas_sql_analysis
 SQL  analysis of OPEC oil production from 1973 - 2018
 
-x# OPEC Oil Production Analysis
+# OPEC Oil Production Analysis
 
 ## Overview
 Analysis of OPEC crude oil production data from 1973 to 2018 using SQL queries to identify production trends and patterns across member countries.
